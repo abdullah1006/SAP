@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/layout_activity_main_menu.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/layout_activity_bmi.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/layout/activity_bmi.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_test_value_calc.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/ic_test_value_calc.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/layout_activity_three_d_shapes.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/layout/activity_three_d_shapes.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/font_montserrat.ttf.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/font/montserrat.ttf"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_bmi.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/ic_bmi.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_about.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/ic_about.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/layout_activity_two_d_shapes.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/layout/activity_two_d_shapes.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_2d_shapes_calc.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/ic_2d_shapes_calc.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/drawable_rounded_gradation.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/drawable/rounded_gradation.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/font_poppins.ttf.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/font/poppins.ttf"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/font_poppins_light.ttf.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/font/poppins_light.ttf"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_temp_calc.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/ic_temp_calc.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_logo_sap.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/logo_sap.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_banner.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/banner.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/drawable_rounded_white.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/drawable/rounded_white.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_action_bar.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/action_bar.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/layout_activity_temperature.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/layout/activity_temperature.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/layout_activity_test_value.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/layout/activity_test_value.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_3d_shapes.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/ic_3d_shapes.png"
+    },
+    {
+        "merged": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/abdullah/Project/AndroidStudioProjects/SAPTugas2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

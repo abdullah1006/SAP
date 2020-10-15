@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SAPTugas2</string>
+    <string name="welcome_to_sap">Welcome To SAP</string>
+    <string name="created">Created By Achmad Yusuf Bagus Setiawan</string>
+    <string name="nim">18051204010</string>
+    <string name="bb1">Under Weight\nNormal\nOver Weight\nObesity</string>
+    <string name="bb2" tools:ignore="StringEscaping">\u003C 18.5\n18.5 - 24.9\n25 - 29.9\n\u003E 30</string>
+    <string name="created_by">Created By</string>
+    <string name="name_nim">Achmad Yusuf Bagus Setiawan\n18051204010</string>
+    <string name="describe">Describe</string>
+    <string name="describe_content">This application is made to complete mobile programming tasks. I hope you enjoy it !</string>
+    <string name="credit">Credit</string>
+    <string name="credit_content">- "Icon made by Freepik from www.flaticon.com"\n- "Ilustration made by stories from www.freepick.com"</string>
+
+    <string-array name="twod_list">
+        <item>Triangle</item>
+        <item>Square</item>
+        <item>Circle</item>
+    </string-array>
+    <string-array name="threed_list">
+        <item>Sylinder</item>
+        <item>Cubois</item>
+        <item>Sphere</item>
+    </string-array>
+</resources>
